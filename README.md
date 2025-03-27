@@ -7,7 +7,7 @@ Complete Data science project where data collecting, preprocessing, model traini
 2. Data validation
 3. ata transformation
 4. Model train 
-5. Model evaluation
+5. Model evaluation- MLflow, DafsHub 
 
 
 ## Workglows
